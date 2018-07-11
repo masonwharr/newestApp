@@ -1,4 +1,4 @@
-Images for third party API from https://clearbit.com/developers
+Third party API used: https://onwater.io/
 
 How to start:
 Place my-app folder in user directory
